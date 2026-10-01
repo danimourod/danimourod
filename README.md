@@ -1,47 +1,95 @@
-<!-- README · Daniel Mourelle Rodríguez (@danirodriigz)
-     Todas las imágenes de /assets son SVG animados hechos a medida. -->
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Daniel%20Mourelle%20Rodr%C3%ADguez&fontAlign=50&fontAlignY=38&color=gradient&customColorList=12,12,12,3&fontColor=ffffff&desc=Estudiante%20de%20DAW%20-%20Desarrollo%20Web%20-%20Dise%C3%B1o%20Gr%C3%A1fico&descAlign=50&descAlignY=58" alt="Banner de cabecera" />
+</p>
 
-<div align="center">
+<h1 align="center">¡Hola, soy Dani! 👋</h1>
+<h3 align="center">Estudiante de DAW • Desarrollo Web • Diseño Gráfico y UI</h3>
 
-<img src="assets/header.svg" width="100%" alt="Daniel Mourelle Rodríguez · Sysadmin · Web dev · Future blue teamer" />
+<p align="center">
+<!-- Cambia el "#" por el enlace de tu portfolio cuando lo tengas -->
+<a href="#"><img src="https://img.shields.io/badge/Portfolio-Próximamente-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+<a href="https://www.linkedin.com/in/daniel-mourelle-813101368"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:danielmourellerodriguez@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+<a href="https://wa.me/34672140692"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
+</p>
 
-<br />
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&center=true&vCenter=true&width=900&lines=Estudiante+de+Desarrollo+de+Aplicaciones+Web;Apasionado+por+el+dise%C3%B1o+gr%C3%A1fico+y+la+parte+visual;Aprendiendo+HTML%2C+CSS%2C+JavaScript%2C+Java+y+bases+de+datos;Convirtiendo+ideas+en+proyectos+bonitos+y+funcionales" alt="Animación de texto" />
+</p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=26&duration=3200&pause=900&color=7DD3FC&center=true&vCenter=true&width=900&height=56&lines=Sysadmin%20by%20training%2C%20web%20dev%20by%20choice;Windows%20Server%20%C2%B7%20AWS%20%C2%B7%20MySQL%20%C2%B7%20Excel%20%C2%B7%20Canva;Next%20quest%3A%20Cybersecurity;Still%20searching%20for%20the%20One%20Piece" alt="Sysadmin by training, web dev by choice" />
+<img align="right" width="260" src="https://github.com/alvrichh/alvrichh/assets/81918923/0208f547-41f2-448f-970a-81a1f213dc6d" alt="Ilustración de Octocat" />
 
-<br />
+Sobre mí:
+Soy estudiante de Desarrollo de Aplicaciones Web (DAW) en el IES Alixar y estoy dando mis primeros pasos en el mundo de la informática.
 
-<a href="mailto:danielmourellerodriguez@gmail.com"><img src="assets/btn-gmail.svg" height="48" alt="Gmail" /></a>&nbsp;
-<a href="https://wa.me/34672140692"><img src="assets/btn-whatsapp.svg" height="48" alt="WhatsApp" /></a>&nbsp;
-<a href="https://www.linkedin.com/in/daniel-mourelle-813101368"><img src="assets/btn-linkedin.svg" height="48" alt="LinkedIn" /></a>&nbsp;
-<a href="#"><img src="assets/btn-portfolio.svg" height="48" alt="Portfolio (coming soon)" /></a>
+Lo que más me gusta es el diseño gráfico y la parte visual de los proyectos: cuidar los detalles, jugar con colores y tipografías y conseguir que una web no solo funcione bien, sino que también sea agradable de usar.
 
-<br /><br />
+[!NOTE]
+Este perfil es mi espacio para compartir las prácticas, actividades y proyectos que voy realizando durante el ciclo.
 
-<img src="assets/about.svg" width="100%" alt="About me: técnico en SMR y estudiante de DAW, con la ciberseguridad como próxima meta." />
+[!TIP]
+Disfruto especialmente de los proyectos donde se juntan diseño, creatividad y desarrollo web.
 
-<br /><br />
+[!IMPORTANT]
+Objetivo actual: aprender bien las bases del desarrollo web, mejorar como programador y combinarlo con el diseño.
 
-<img src="assets/callouts.svg" width="100%" alt="Note, tip e important." />
+Qué estoy haciendo ahora
+Aprendiendo los fundamentos del desarrollo de aplicaciones web
 
-<br /><br />
+Practicando maquetación con HTML y CSS
 
-<img src="assets/timeline.svg" width="100%" alt="Journey: SMR completed, DAW in progress, Cybersecurity next quest." />
+Dando mis primeros pasos con JavaScript, Java y bases de datos
 
-<br /><br />
+Mejorando mis habilidades de diseño gráfico y diseño de interfaces
 
-<img src="assets/stack.svg" width="100%" alt="Tech stack: Windows Server, redes, AWS, HTML, XML, JavaScript, Excel, MySQL, Microsoft Office, Canva, VS Code y Eclipse." />
+Proyectos destacados
+DAW-Alixar — Repositorio académico con las actividades, prácticas y proyectos del ciclo de DAW en el IES Alixar.
 
-<br /><br />
+Portfolio — Mi web personal. Próximamente.
 
-<img src="assets/trainer.svg" width="100%" alt="Trainer card estilo Pokémon con un Snorlax bloqueando el camino." />
+Tecnologías y herramientas
+Lenguajes
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,java,php,mysql&perline=6" alt="Lenguajes" />
+</p>
 
-<br /><br />
+Diseño
+<p>
+<img src="https://skillicons.dev/icons?i=figma,ps,ai,pr&perline=4" alt="Herramientas de diseño" />
+</p>
 
-<img src="assets/sidequests.svg" width="100%" alt="Side quests: Quevedo, Cruz Cafuné, elrubius, IlloJuan, One Piece, Zelda y El Señor de los Anillos." />
+Herramientas
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,windows,linux&perline=6" alt="Herramientas" />
+</p>
 
-<br /><br />
+Estadísticas de GitHub
+<p align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight" alt="Frase del día" />
+<img height="170" src="https://streak-stats.demolab.com?user=TU_USUARIO&theme=tokyonight&hide_border=true" alt="Racha de GitHub" />
+</p>
 
-<img src="assets/footer.svg" width="100%" alt="Set sail. See you on the Grand Line, nakama." />
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=TU_USUARIO&theme=tokyo-night&hide_border=true&area=true" alt="Gráfico de actividad" />
+</p>
 
-</div>
+<details>
+<summary><b>Extra: mis trofeos</b></summary>
+
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=TU_USUARIO&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&margin-h=10" alt="Trofeos de GitHub" />
+</p>
+</details>
+
+Contacto
+<p>
+<a href="#">Portfolio (próximamente)</a> •
+<a href="https://www.linkedin.com/in/daniel-mourelle-813101368">LinkedIn</a> •
+<a href="mailto:danielmourellerodriguez@gmail.com">Email</a> •
+<a href="https://wa.me/34672140692">WhatsApp</a>
+</p>
+
+<p align="center">
+<i>Aprendiendo cada día y uniendo código y diseño.</i>
+</p>
