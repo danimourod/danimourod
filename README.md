@@ -38,10 +38,6 @@
 
 <br /><br />
 
-<img src="assets/sidequests.svg" width="100%" alt="Side quests: Quevedo, Cruz Cafuné, elrubius, IlloJuan, One Piece, Zelda y El Señor de los Anillos." />
-
-<br /><br />
-
 <img src="assets/footer.svg" width="100%" alt="Set sail. See you on the Grand Line, nakama." />
 
 </div>
